@@ -3,9 +3,10 @@
 This project is a music recommendation system that utilizes emotion recognition to recommend songs based on the user's mood.
 
 ## Features
-- Detects facial expressions to determine the user's emotion.
-- Utilizes a Convolutional Neural Network (CNN) model for emotion recognition.
-- Recommends music based on the detected emotion.
+ - Developed and implemented a Music Recommendation System utilizing Emotion Recognition technology.
+ - Utilized the FER-2013 and Oahega datasets for emotion recognition training in conjunction with a Convolutional Neural Network (CNN).
+ - Designed and deployed a user-friendly web frontend and interface for real-time emotion capture leveraging Streamlit and OpenCV.
+ - Integrated music datasets to recommend songs based on emotional states using cosine similarity algorithms.
 
 ## Dataset
 - FER2013 dataset for emotion recognition.
