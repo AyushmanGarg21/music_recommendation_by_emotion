@@ -1,4 +1,4 @@
-# Music Recommendation System with Emotion Recognition
+# Music Recommendation System using Emotion Recognition
 
 This project is a music recommendation system that utilizes emotion recognition to recommend songs based on the user's mood.
 
@@ -9,8 +9,8 @@ This project is a music recommendation system that utilizes emotion recognition 
 
 ## Dataset
 - FER2013 dataset for emotion recognition.
-- OHAHEGA dataset for additional emotion data.
-- music dataset for music recommendation.
+- OHAHEGA dataset for additional emotion data .
+- music dataset for music recommendation (https://www.kaggle.com/datasets/saurabhshahane/music-dataset-1950-to-2019).
 
 ## Requirements
 - Python 3.x
